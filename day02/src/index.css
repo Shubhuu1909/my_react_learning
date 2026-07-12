@@ -1,0 +1,20 @@
+.main{
+  
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.child{
+  border: 2px solid #6c63ff;
+  border-radius: 16px;
+  padding: 40px 60px;
+  color: red;
+  
+}
+h1{
+  background-color: #a51333;
+  color: green;
+}
