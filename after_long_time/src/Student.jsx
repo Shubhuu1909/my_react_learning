@@ -1,10 +1,13 @@
-function Student(){
-   const name = "Shubham"
-    const course = "react dev"
+function Student(props){
+
     return(
         <div>
-                <h1>{name}</h1>
-                <h1>{course}</h1>
+
+                {props.children}
+                
+                
+                
+                
         </div>
     )
 

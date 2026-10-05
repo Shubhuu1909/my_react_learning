@@ -6,6 +6,6 @@ import Student from './Student.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <Student/>
+    <App/>
   </StrictMode>,
 )
